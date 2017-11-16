@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\KRP\KRP\bin\Debug\KRP.exe.config
+C:\Users\User\source\repos\KRP\KRP\bin\Debug\KRP.exe
+C:\Users\User\source\repos\KRP\KRP\bin\Debug\KRP.pdb
+C:\Users\User\source\repos\KRP\KRP\obj\Debug\KRP.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\KRP\KRP\obj\Debug\KRP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KRP\KRP\obj\Debug\KRP.exe
+C:\Users\User\source\repos\KRP\KRP\obj\Debug\KRP.pdb
