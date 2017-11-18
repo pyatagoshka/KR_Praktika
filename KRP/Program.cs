@@ -12,8 +12,8 @@ namespace ConsoleApplication2
         {
             Console.CursorVisible = false;
             ConsoleKeyInfo k;
-            int x = 80;
-            int y = 40;
+            int x = 79;
+            int y = 39;
             do
             {
                 Console.SetCursorPosition(x, y);
